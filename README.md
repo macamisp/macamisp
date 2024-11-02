@@ -46,7 +46,7 @@ Always eager to discuss new ideas and innovations in the field!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dilshan-padukka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="macamisp" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="macamisp" height="30" width="40" /></a>
 </p>
 <br>
 
@@ -109,5 +109,5 @@ Always eager to discuss new ideas and innovations in the field!
 
 ------
 
-Credit: [Dilshan Padukka](https://github.com/macamisp)
+Credit: [Sachin prabashwara](https://github.com/macamisp)
 Last Edited on: 05/10/2024
