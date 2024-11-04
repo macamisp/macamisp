@@ -1,4 +1,4 @@
-
+![Blue Navy And White Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/cc1f6cda-8f7b-4825-a45a-50b00dd640c9)
 <h1 align="center">Hi 👋, I'm Sachin Prabashwara</h1>
 <h3 align="center">A passionate Full Stack Developer | Student </h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted. My enthusiasm for software engineering has perpetually developed since an early age. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️</p>
